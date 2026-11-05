@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food</string>
+
+    <string name="app_DesignByNeatRoots">Design By NeatRoots</string>
+
+    <string name="welcome_logo_description">Food 로고</string>
+    <string name="welcome_title">Enjoy Restaurant Quality Meals at Home</string>
+    <string name="welcome_description">Enjoy Restaurant Quality Meals at Home.</string>
+    <string name="welcome_next">Next</string>
+
+    <string name="login_logo_description">Food 로고</string>
+    <string name="login_title">Waves Of Food</string>
+    <string name="login_description">Deliever Favorite Food</string>"
+    <string name="login_email_hint">Email or Phone Number</string>
+    <string name="login_password_hint">Password</string>"
+    <string name="login_submit">Login</string>"
+
+</resources>
